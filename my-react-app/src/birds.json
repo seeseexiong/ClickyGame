@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "parrotHeart",
+    "image":
+      "https://i.pinimg.com/564x/1a/1c/43/1a1c436c867ae9ed064f214af1a08715.jpg"
+  },
+  {
+    "id": 2,
+    "name": "parrotYellow",
+    "image":
+      "https://i.pinimg.com/564x/5f/31/3d/5f313d0b5de732357b911012185d110b.jpg"
+  },
+  {
+    "id": 3,
+    "name": "parrotPink",
+    "image":
+      "https://i.pinimg.com/564x/1e/fd/19/1efd1913109a7801aa89c21e758800f3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "duck",
+    "image":
+      "https://i.pinimg.com/564x/3a/10/52/3a1052c44d44a299701fdfd40940b31f.jpg"
+  },
+  {
+    "id": 5,
+    "name": "phoenix",
+    "image":
+      "https://i.pinimg.com/564x/c7/60/f6/c760f618e83fed36738187944c55c909.jpg"
+  },
+  {
+    "id": 6,
+    "name": "hummingbird",
+    "image":
+      "https://i.pinimg.com/564x/c1/e2/3b/c1e23bc87ad3d9a78894e3148d1b9d51.jpg"
+  },
+  {
+    "id": 7,
+    "name": "swan",
+    "image":
+      "https://i.pinimg.com/564x/a2/27/94/a22794d885448a2aa20e9f4ba9daf7e3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "dove",
+    "image":
+      "https://i.pinimg.com/564x/8c/97/42/8c9742a47d7b3b143d510787af507280.jpg"
+  },
+  {
+    "id": 9,
+    "name": "hen",
+    "image":
+      "https://i.pinimg.com/564x/2e/95/c9/2e95c9692f656d6cacedf65268dc2be2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "robin",
+    "image":
+      "https://i.pinimg.com/564x/43/34/9a/43349a78a467f978fc818621376453ac.jpg"
+  },
+  {
+    "id": 11,
+    "name": "blueBird",
+    "image":
+      "https://i.pinimg.com/564x/f2/e8/fe/f2e8fec1a4dd95bc071890fde3ecbff1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "blueJay",
+    "image":
+      "https://i.pinimg.com/564x/9a/90/9a/9a909ac4eddfa3b8605e8a9bc51b57d7.jpg"
+  }
+  ]

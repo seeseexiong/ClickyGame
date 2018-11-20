@@ -11,23 +11,12 @@
   .img-thumbnail > .img-container {
     height: 100%;
     text-align: center;
-
+    cursor: pointer;
   }
   .img-thumbnail > .img-container > img {
     width: 60%
   }
-
-  
-  .card > .remove {
-    color: #ff1744;
-    font-size: 48px;
-    position: absolute;
-    top: -20px;
-    right: 5px;
-    cursor: pointer;
+  .img-thumbnail:hover {
+    width: 190px;
+    height: 190px;
   }
-  
-  .card > .remove:hover {
-    color: #d50000;
-  }
-  

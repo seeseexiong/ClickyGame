@@ -4,7 +4,9 @@ import Title from "./components/Title";
 import BirdCard from "./components/BirdCard";
 import birds from "./birds.json";
 
+
 const App = () => (
+
   <Wrapper>
     <Title>Bird Clicky Game</Title>
     <BirdCard
